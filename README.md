@@ -3,9 +3,9 @@ Ideas - Independent interest
 
 Check out,  Notes - rakeshkelm@gmail.com.txt
 
-Check out, Profile
+Check out, Profile.txt
 
-Check out, fedGov
+Check out, fedGov (folder)
 
-Check out, broomeGov
+Check out, broomeGov (folder)
 
