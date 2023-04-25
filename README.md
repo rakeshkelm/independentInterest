@@ -1,11 +1,11 @@
 # pub
 Ideas - Independent interest
 
-Check out,  Notes - rakeshkelm@gmail.com.txt
+Check out,  Notes folder (rakeshkelm@gmail.com.txt)
 
-Check out, Profile.txt
+Check out, Profile folder (Profile.txt)
 
-Check out, fedGov (folder)
+Check out, fedGov folder (multiple files)
 
-Check out, broomeGov (folder)
+Check out, broomeGov folder (multiple files)
 
