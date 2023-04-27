@@ -1,27 +1,41 @@
 ﻿Ideas
 
 
-Independent
+p2p : git (rakeshkelm)
+web : github.com/rakeshkelm
+
+
+from independent
 [
 interest
+check out, pub
 ]
 
 
-For
+for
 [
-any government any where
-federal government USA
-county and state government(s) USA
+any individual, any where
+check out, fedGov
+check out, BroomeGov
 ]
 
 
-Outlined and explained in
+for
+[
+any government, any where
+federal government, USA
+county and state government(s), USA
+]
+
+
+outlined and explained in
 [
 notes
+check out, notes
 ]
 
 
-If interested
+if, interested
 [
 check out, profile
 ]
