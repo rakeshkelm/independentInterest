@@ -5,9 +5,15 @@ p2p : git (rakeshkelm)
 web : github.com/rakeshkelm
 
 
-from independent
+ideas
+{
+from independent interest
+]
+
+
+for
 [
-interest
+any communist, any socialist, any royalist
 check out, pub
 ]
 
