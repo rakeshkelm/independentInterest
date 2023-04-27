@@ -1,5 +1,5 @@
 # pub
-Ideas - Independent interest and Militia
+Ideas - Independent interest and Militia, Planet
 
 Check out, Ideas.txt in this folder
 
