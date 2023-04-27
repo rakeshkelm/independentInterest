@@ -1,13 +1,13 @@
-﻿Ideas - Militia
+﻿Ideas - Independent interest and Militia
 
 
-p2p : git (rakeshkelm)
+p2p : git rakeshkelm
 web : github.com/rakeshkelm
 
 
 ideas
 {
-from independent interest
+from independent interest and militia
 Rakesh Kukatla
 ]
 
@@ -47,4 +47,5 @@ check out, notes
 if, interested
 [
 check out, profile
+Rakesh Kukatla
 ]
