@@ -1,6 +1,8 @@
 # pub
 Ideas - Independent interest and Militia, Planet
 
+https://independentinterest.planet.militia
+
 Check out, Ideas.txt in this folder
 
 Check out, rakeshkelm/notes folder (rakeshkelm@gmail.com.txt)
