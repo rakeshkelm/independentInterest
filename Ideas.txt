@@ -1,6 +1,8 @@
 ﻿Ideas - Independent interest and Militia
 
 
+
+
 p2p : git rakeshkelm
 web : github.com/rakeshkelm
 
@@ -9,13 +11,7 @@ ideas
 {
 from independent interest and militia
 Rakesh Kukatla
-]
-
-
-for
-[
-any communist, any socialist, any royalist
-check out, pub
+check out, profile
 ]
 
 
@@ -29,10 +25,11 @@ check out, BroomeGov
 
 for
 [
+any communist, any socialist, any royalist,
 any government, any where
 federal government, USA
-county and state government(s), USA
 check out, fedGov
+county and state government(s), USA
 check out, broomeGov
 ]
 
@@ -44,8 +41,9 @@ check out, notes
 ]
 
 
-if, interested
+if still, interested
 [
-check out, profile
+in independent interest and militia
 Rakesh Kukatla
+check out, profile
 ]
