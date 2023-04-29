@@ -1,8 +1,6 @@
 ﻿Ideas - Independent interest and Militia
 
 
-
-
 p2p : git rakeshkelm
 web : github.com/rakeshkelm
 
@@ -41,7 +39,7 @@ check out, notes
 ]
 
 
-if still, interested
+if, still interested
 [
 in independent interest and militia
 Rakesh Kukatla
