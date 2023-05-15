@@ -2,7 +2,7 @@
 
 
 p2p : git rakeshkelm
-web : github.com/rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 ideas
