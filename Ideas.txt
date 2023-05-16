@@ -25,10 +25,12 @@ for
 [
 any communist, any socialist, any royalist,
 any government, any where
-federal government, USA
 check out, fedGov
-county and state government(s), USA
 check out, broomeGov
+federal government, USA
+check out, broomeGov
+county and state government(s), USA
+check out, fedGov
 ]
 
 
