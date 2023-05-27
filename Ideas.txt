@@ -8,6 +8,9 @@ p2p : git rakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
 
 
+Public education - Loosing (aka Jealous{y})
+
+
 ideas
 {
 from independent interest and militia
