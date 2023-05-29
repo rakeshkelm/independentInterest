@@ -1,5 +1,5 @@
 # pub
-Ideas - Independent interest and Militia, Planet (Sucking)
+Ideas - Independent interest and Militia, Planet (Suc-king)
 
 https://independentinterest.planet.militia
 
