@@ -3,7 +3,7 @@ Ideas - Independent interest and Militia, Planet (Suc-king)
 
 https://independentinterest.planet.militia
 
-Check out, Ideas.txt in this folder
+Check out, Ideas.txt in this folder (Actively updated)
 
 Check out, rakeshkelm/notes folder (rakeshkelm@gmail.com.txt)
 
