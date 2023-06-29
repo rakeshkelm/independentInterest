@@ -5,6 +5,10 @@ https://independentinterest.planet.militia
 
 Check out, Ideas.txt in this folder (Actively updated)
 
+For more details, Check out
+
+https://github.com/irakeshkelm (Actively updated)
+
 Check out, rakeshkelm/notes folder (rakeshkelm@gmail.com.txt)
 
 Check out, rakeshkelm/profile folder (Profile.txt)
