@@ -2,12 +2,11 @@ Independent interest - from, Rakesh Kukatla
 
 Independent interest and Militia, Planet (Suc-king)
 
-https://independentinterest.planet.militia
-https://github.com/irakeshkelm (Actively updated)
+at https://github.com/rakeshkelm (Actively updated)
 
 then - Check Independent interest
 
-at https://github.com/irakeshkelm/profile (Actively updated)
+at https://github.com/irakeshkelm/profile 
 
 then - Check out, profile,txt
 
