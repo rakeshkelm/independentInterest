@@ -4,51 +4,59 @@ Independent interest and Militia, Planet (Suc-king)
 
 at https://github.com/rakeshkelm (Actively updated)
 
-then - Check Independent interest
+then - Check Independent interest, from Rakesh Kukatla, Independent interest and Militia (Suc-king)
 
-at https://github.com/irakeshkelm/profile 
+at https://github.com/irakeshkelm/profileNote 
 
-then - Check out, profile,txt
+then - Check out, profileNote,txt
 
 For more details, 
 
-contiue to Check Ideas
+contiue to 
 
-at https://github.com/rakeshkelm/ideas 
+Check Ideas on the move, from Rakesh Kukatla, Independent interest and Militia (Suc-king)
 
-then - Check out, ideas.txt
+at https://github.com/rakeshkelm/ideasonthemove 
 
-continue to 
-
-Check Notes
-
-at https://github.com/rakeshkelm/notes
-
-then - Check out, rakeshkelm@gmail.com.txt
+then - Check out, ideasOnTheMove.txt
 
 continue to 
 
-Check National Corporations, USA (aka Great-America)
+Check Earth Backup Notes, from Rakesh Kukatla, Independent interest and Militia (Suc-king)
 
-at https://github.com/rakeshkelm/natCorp
+at https://github.com/rakeshkelm/earthbackupnotes
 
-then - Check out, nationalCorporationsUSAakaGreatAmerica.txt
+then - Check out, earthbackpnotes.txt
 
 continue to 
 
-Check Federal Governmnent, USA (aka Great-America)
+Check National Corporations, USA (aka Great-America), Saudi Royalists (Winning)
 
-at https://github.com/rakeshkelm/fedGov
+at https://github.com/rakeshkelm/natCorpUsaSaudiRoyalists
+
+then - Check out, HomeDepotRefrigeratorWarrantyExchange.pdf
+
+continue to 
+
+Check Federal Governmnent, USA (aka Great-America), Saudi Royalists (Winning)
+
+at https://github.com/rakeshkelm/fedgovusasaudiroyalists
 
 then - Check out, federalGovermentUSAakaGreatAmerica.txt
 
 continue to 
 
-Check County and State Governmnent, USA (aka Great-America)
+Check County and State Governmnent, NY, USA (aka Great-America), Saudi Royalists (Winning)
 
-at https://github.com/rakeshkelm/broomeGov
+at https://github.com/rakeshkelm/broomecountystategovnyusasaudiroyalists
 
-then - Check out, countyAndStateGovermentUSAakaGreatAmerica.txt
+then - Check out, BroomeBoeChurchStateSeparation.jpeg
+
+Also,
+
+Check Independent interest, Planet, Galaxy
+
+at https://github.com/irakeshkelm
 
 Build and operationalize a planet.
 
