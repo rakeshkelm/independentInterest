@@ -8,7 +8,7 @@ at https://independentinterest.media.militia
 
 then - Check Independent interest, from Rakesh Kukatla, Independent interest and Militia (Suc-king)
 
-at https://github.com/irakeshkelm/profileNote 
+at https://github.com/rakeshkelm/profileNote 
 
 then - Check out, profileNote,txt
 
