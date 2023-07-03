@@ -1,8 +1,10 @@
 Independent interest - from, Rakesh Kukatla
 
+at https://github.com/rakeshkelm
+
 Independent interest and Militia, Planet (Suc-king)
 
-at https://github.com/rakeshkelm (Actively updated)
+at https://independentinterest.media.militia
 
 then - Check Independent interest, from Rakesh Kukatla, Independent interest and Militia (Suc-king)
 
