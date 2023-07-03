@@ -12,6 +12,8 @@ at https://github.com/independentinterest
 
 then - Check out, aboutRakeshkelm.txt 
 
+For more details, 
+
 continue to
 
 Check - Profile note
@@ -19,8 +21,6 @@ Check - Profile note
 at https://github.com/rakeshkelm/profileNote 
 
 then - Check out, profileNote.txt
-
-For more details, 
 
 contiue to 
 
