@@ -1,19 +1,58 @@
 # pub
-Ideas - Independent interest and Militia, Planet (Suc-king)
+Independent interest - from, Rakesh Kukatla
+
+Independent interest and Militia, Planet (Suc-king)
 
 https://independentinterest.planet.militia
-
-Check out, Ideas.txt in this folder (Actively updated)
-
-For more details, Check out
-
 https://github.com/irakeshkelm (Actively updated)
 
-Check out, rakeshkelm/notes folder (rakeshkelm@gmail.com.txt)
+then - Check Independent interest
 
-Check out, rakeshkelm/profile folder (Profile.txt)
+at https://github.com/irakeshkelm/profile (Actively updated)
 
-Check out, rakeshkelm/fedGov folder (multiple files)
+then - Check out, profile,txt
 
-Check out, rakeshkelm/broomeGov folder (multiple files)
+For more details, 
+
+contiue to Check Ideas
+
+at https://github.com/rakeshkelm/ideas 
+
+then - Check out, ideas.txt
+
+continue to 
+
+Check Notes
+
+at https://github.com/rakeshkelm/notes
+
+then - Check out, rakeshkelm@gmail.com.txt
+
+continue to 
+
+Check National Corporations, USA (aka Great-America)
+
+at https://github.com/rakeshkelm/natCorp
+
+then - Check out, nationalCorporationsUSAakaGreatAmerica.txt
+
+continue to 
+
+Check Federal Governmnent, USA (aka Great-America)
+
+at https://github.com/rakeshkelm/fedGov
+
+then - Check out, federalGovermentUSAakaGreatAmerica.txt
+
+continue to 
+
+Check County and State Governmnent, USA (aka Great-America)
+
+at https://github.com/rakeshkelm/broomeGov
+
+then - Check out, countyAndStateGovermentUSAakaGreatAmerica.txt
+
+Build and operationalize a planet.
+
+Expand and update Independent interest.
 
