@@ -1,16 +1,24 @@
 Independent interest - from, Rakesh Kukatla
 
-at https://github.com/rakeshkelm
+at https://independentinterest.media.militia
 
 Independent interest and Militia, Planet (Suc-king)
 
-at https://independentinterest.media.militia
+continue to
 
-then - Check Independent interest, from Rakesh Kukatla, Independent interest and Militia (Suc-king)
+Check  Independent Interest
+
+at https://github.com/independentinterest
+
+then - Check out, aboutRakeshkelm.txt 
+
+continue to
+
+Check - Profile note
 
 at https://github.com/rakeshkelm/profileNote 
 
-then - Check out, profileNote,txt
+then - Check out, profileNote.txt
 
 For more details, 
 
