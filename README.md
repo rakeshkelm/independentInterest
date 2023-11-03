@@ -40,7 +40,7 @@ then - Check out, earthbackpnotes.txt
 
 continue to 
 
-Check National Corporations, USA (aka Great-America), Saudi Royalists (Winning)
+Check National Corporations, USA (aka United slave america), Saudi Royalists (Winning)
 
 at https://github.com/rakeshkelm/natCorpUsaSaudiRoyalists
 
@@ -48,7 +48,7 @@ then - Check out, HomeDepotRefrigeratorWarrantyExchange.pdf
 
 continue to 
 
-Check Federal Governmnent, USA (aka Great-America), Saudi Royalists (Winning)
+Check Federal Governmnent, USA (aka United slave america), Saudi Royalists (Winning)
 
 at https://github.com/rakeshkelm/fedgovusasaudiroyalists
 
@@ -56,11 +56,20 @@ then - Check out, federalGovermentUSAakaGreatAmerica.txt
 
 continue to 
 
-Check County and State Governmnent, NY, USA (aka Great-America), Saudi Royalists (Winning)
+Check County and State Governmnent, NY, USA (aka United slave america), Saudi Royalists (Winning)
 
 at https://github.com/rakeshkelm/broomecountystategovnyusasaudiroyalists
 
 then - Check out, BroomeBoeChurchStateSeparation.jpeg
+
+continue to 
+
+University, USA (aka United slave america), Saudi Royalists (Winning)
+
+at https://github.com/rakeshkelm/universityusasaudiroyalists
+
+then - Check out, 
+emailPresidentsDeansBinghamtonCornellHarvardNewenglandSchoolOfLawPostmarketingFollowupAccrediting.txt
 
 Also,
 
